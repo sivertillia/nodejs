@@ -9,8 +9,8 @@ CREATE TABLE users(
 );
 
 -- {
---     "email": "qweqew",
---     "password": "asdasdasdasdas",
---     "firstname": "Game",
---     "lastname": "GG"
+--     "email": "vasia.pupkin@admin.com",
+--     "password": "пароль",
+--     "firstname": "Вася",
+--     "lastname": "Пупкин"
 -- }
